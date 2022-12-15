@@ -1,6 +1,7 @@
 body{
     margin: 0;
     padding: 0;
+    background-color: rgb(255, 250, 205);
 }
 
 nav{
@@ -9,6 +10,8 @@ nav{
     margin: 0;
     padding-left: 10px;
     padding-right: 20px;
+    background-color: rgb(250, 205, 205);
+    box-shadow: 0, black, 2;
 }
 
 main{
