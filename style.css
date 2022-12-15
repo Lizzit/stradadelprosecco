@@ -7,11 +7,15 @@ nav{
     position: fixed;
     height: 100%;
     margin: 0;
-    margin-left: 10px;
-    margin-right: 20px;
+    padding-left: 10px;
+    padding-right: 20px;
 }
 
 main{
     margin-left: 20%;
     margin-right: 20%;
+}
+
+h1{
+    margin: 0;
 }
