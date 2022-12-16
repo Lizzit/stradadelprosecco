@@ -37,3 +37,69 @@ h1{
     font-size: 3em;
     margin: 0;
 }
+
+body {
+    background-color: rgb(245, 245, 245);
+}
+
+h1, input, textarea, select, option, legend {
+    color: #555;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+#email {
+    margin-left: 60px;
+}
+
+#name {
+    margin-left: 22px;
+}
+
+#phone {
+    margin-left: 54px;
+}
+
+#subject {
+    margin-left: 46px;
+}
+
+#message {
+    margin-left: 35px;
+}
+
+#file {
+    margin-left: 1px;
+    border: 0px;
+}
+
+#submit {
+    margin-left: 99px;
+    background-color: rgb(44, 212, 114);
+    color: #fff;
+    border: 0px;
+    font-weight: bold;
+    font-size: 16px;
+}
+input, textarea, select {
+    padding: 8px;
+    border: 1px solid rgb(141, 141, 141);
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+legend {
+    background-color: #fff;
+    font-weight: bold;
+    padding: 10px;
+    border: 1px solid rgb(141, 141, 141);
+    border-radius: 5px;
+}
+
+fieldset {
+    border: 1px solid rgb(141, 141, 141);
+    border-radius: 5px;
+}
