@@ -52,6 +52,10 @@ input, textarea, select, option, legend {
     color: #555;
 }
 
+input{
+    width: 237px;
+}
+
 #email, #name, #phone, #subject, #message {
     margin-left: 30px;
 }
