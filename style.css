@@ -21,10 +21,19 @@ nav > ul{
     padding: 0;
 }
 
+nav > ul > li{
+    margin-bottom: 10px;
+}
+
 nav > ul > li > a{
     text-decoration: none;
     color: black;
     margin-top: 5px;
+}
+
+nav > ul > li > a:hover{
+    background-color: rgb(255, 80, 80);
+    text-decoration: underline;
 }
 
 main{
