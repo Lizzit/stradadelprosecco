@@ -35,16 +35,12 @@ main{
 
 h1{
     font-size: 3em;
+    font-weight: bold;
     margin: 0;
 }
 
 input, textarea, select, option, legend {
     color: #555;
-}
-
-h1 {
-    font-weight: bold;
-    font-size: 30px;
 }
 
 #email {
